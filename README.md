@@ -1,5 +1,7 @@
 # Ecma TC39 JavaScript Decimal proposal
 
+![Stage 2](https://badges.aleen42.com/src/tc39_3.svg)
+
 The TC39 Decimal proposal is an investigation into adding a built-in data type in JavaScript to represent base-10 decimal numbers.
 
 This whole proposal is basically a big open question, and we'd welcome your participation in discussing the design space in the issues linked above. **We are seeking input for your needs around JavaScript decimal in [this survey](http://tiny.cc/js-decimal-survey).**
